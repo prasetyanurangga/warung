@@ -13,7 +13,7 @@
 
 **UI Credit**
 
-- Design by:  Cuberto - [(Groceries Shopping App Interaction)](Groceries Shopping App Interaction - https://dribbble.com/shots/6120171-Groceries-Shopping-App-Interaction)
+- Design by:  Cuberto - [(Groceries Shopping App Interaction)](https://dribbble.com/shots/6120171-Groceries-Shopping-App-Interaction)
 
 **Contact**
 
