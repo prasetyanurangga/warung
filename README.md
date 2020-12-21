@@ -13,7 +13,7 @@
 
 **UI Credit**
 
-- Design by:  Thomas Engebrand - [(Weather App)](https://dribbble.com/shots/3202409-Weather-App)
+- Design by:  Cuberto - [(Groceries Shopping App Interaction)](Groceries Shopping App Interaction - https://dribbble.com/shots/6120171-Groceries-Shopping-App-Interaction)
 
 **Contact**
 
