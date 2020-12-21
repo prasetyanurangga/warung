@@ -1,16 +1,29 @@
-# warung
+# Warung - Flutter UI
 
-A new Flutter project.
+**Packages we are using:**
 
-## Getting Started
+- [Flutter Svg](https://pub.dev/packages/flutter_svg)
+- [Getx](https://pub.dev/packages/get)
+- [Google Fonts](https://pub.dev/packages/google_fonts)
+- [Geolocator](https://pub.dev/packages/geolocator)
+    
+**Fonts**
 
-This project is a starting point for a Flutter application.
+-  [Rubik](https://fonts.google.com/specimen/rubik)
 
-A few resources to get you started if this is your first Flutter project:
+**UI Credit**
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Design by:  Thomas Engebrand - [(Weather App)](https://dribbble.com/shots/3202409-Weather-App)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Contact**
+
+For more information contact angganurprasetya4@gmail.com
+
+**Download Apk**
+
+[Warung.apk](https://github.com/prasetyanurangga/warung/raw/main/warung.apk)
+
+### Warung Final UI
+
+![Demo](https://github.com/prasetyanurangga/warung/raw/main/warung_app.gif)
+
