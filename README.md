@@ -2,10 +2,10 @@
 
 **Packages we are using:**
 
-- [Flutter Svg](https://pub.dev/packages/flutter_svg)
+- [Flutter Staggered Grid View](https://pub.dev/packages/flutter_staggered_grid_view)
 - [Getx](https://pub.dev/packages/get)
 - [Google Fonts](https://pub.dev/packages/google_fonts)
-- [Geolocator](https://pub.dev/packages/geolocator)
+- [Cached Image Network](https://pub.dev/packages/cached_image_network)
     
 **Fonts**
 
